@@ -1,8 +1,3 @@
-
-
-C/C++, Java, Python Developer, Cybersecurity, DevSecOps
--------------------------------------------------------
-
 ### Skills
 
 
